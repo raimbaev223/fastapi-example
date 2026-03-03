@@ -28,12 +28,19 @@ SQLite
 
 Структура проекта
 app/
+
  ├── main.py
+ 
  ├── db/
+ 
  ├── models/
+ 
  ├── schemas/
+ 
  ├── repositories/
+ 
  ├── services/
+ 
  └── api/
 
 Архитектура:
